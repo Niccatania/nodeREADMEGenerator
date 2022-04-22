@@ -27,19 +27,19 @@ const generateREADME = (data) =>
   
 
 
-# Description:
+## Description:
 ${data.Description}
-# Installation:
+## Installation:
 ${data.Installation}
-# Usage:
+## Usage:
 ${data.Usage}
-# Contributors:
+## Contributors:
 ${data.Contributors}
-# Tests:
+## Tests:
 ${data.Tests}
-# License:
+## License
 This project uses the ${data.License} license.
-# Questions
+## Questions
 If you have any questions please contact me through github or email.
 Github: https://github.com/${data.gitUser}
 
