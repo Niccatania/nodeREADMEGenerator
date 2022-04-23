@@ -4,7 +4,7 @@ const { type } = require("os");
 
 const generateREADME = (data) =>
   `
-  # Projectname: ${data.Title}
+# ${data.Title}
 
 
   ![License: ${data.License}](https://img.shields.io/badge/License-${data.License}-blue.svg)

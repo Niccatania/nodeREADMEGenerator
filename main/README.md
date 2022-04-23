@@ -1,5 +1,5 @@
 
-  # Projectname: nodeREADMEgenerator
+# Nics proj
 
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -23,20 +23,20 @@
 
 
 ## Description:
-This project uses node to create a README file on the command line
+none
 ## Installation:
-Download code and run
+none
 ## Usage:
-Please contact to edit
+Please contact
 ## Contributors:
-Nic Catania
+Nic
 ## Tests:
-This one
+nope
 ## License
 This project uses the MIT license.
 ## Questions
 If you have any questions please contact me through github or email.
 Github: https://github.com/Niccatania
 
-Email: niccatania6@gmail.com
+Email: niccatania@gmail.com
  
