@@ -9,7 +9,7 @@
   ![Demonstration video!](https://github.com/Niccatania/nodeREADMEGenerator/blob/main/main/assets/Readmevid.mp4)
 
 
-  ##### Table of Contents  
+  ### Table of Contents  
 
   [Description](#Description)
 
