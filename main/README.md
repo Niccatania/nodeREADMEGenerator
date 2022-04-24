@@ -1,10 +1,7 @@
-
-# node README generator
+ # node README generator
 
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-  
-  ![Demonstration video!](https://github.com/Niccatania/nodeREADMEGenerator/blob/main/main/assets/Readmevid.mp4)
 
 
   ##### Table of Contents  
